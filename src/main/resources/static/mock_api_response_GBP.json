@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "timestamp": 1732595883,
+  "base": "GBP",
+  "date": "2024-11-28",
+  "rates": {
+    "EUR": 1.202089,
+    "GBP": 1,
+    "USD": 1.268675
+  }
+}
